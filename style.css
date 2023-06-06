@@ -5,8 +5,16 @@ body{
 
 .wrapper{
     background-color: aqua;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 ul{
     width: 100%;
+    list-style: none;
+
+}
+
+li{
+    color: blueviolet;
 }
